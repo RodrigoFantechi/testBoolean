@@ -1,0 +1,95 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+
+}
+
+body {
+  background-image: url(contenuti_multimediali2/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+
+}
+.contenitore {
+  margin-left: 19%;
+  margin-right: 19%;
+  margin-top: 1%;
+  margin-bottom: 4%;
+  border-radius: 15px 15px 15px 15px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-left: 5%;
+  padding-right:5%;
+  padding-top: 115px;
+  padding-bottom: 115px;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+
+
+}
+
+
+#logoPagina{
+  height: 110px;
+  width: 250px;
+}
+
+
+header{
+  color: #00dd00;
+  margin-bottom: 5px;
+}
+
+nav{
+  background-color: #00dd00;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+main{
+  text-align: left;
+  color: white;
+}
+
+.mezzaCarica{
+  height: 30px;
+  width: 35%;
+  background-color: #f5b453;
+  border-radius: 5px 5px 5px 5px;
+
+}
+
+.caricaPiena{
+  height: 30px;
+  width: 60%;
+  background-color: #1ec31e;
+  border-radius: 5px 5px 5px 5px;
+
+}
+
+.bassaCarica{
+  height: 30px;
+  width: 15%;
+  background-color: #be4141;
+  border-radius: 5px 5px 5px 5px;
+
+}
+
+.proprietarioMotorino{
+  font-size: 22px;
+  font-weight: bold;
+
+
+}
+
+.quadratinoBianco{
+  background-color: white;
+  width: 10px;
+  height: 10px;
+  display:inline-block;
+}
+
+.contenitoreLista{
+  margin-bottom: 18px;
+
+}
